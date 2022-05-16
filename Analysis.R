@@ -5,3 +5,4 @@ summary(x)
 mean(x)
 median(x)
 
+summary(y)
